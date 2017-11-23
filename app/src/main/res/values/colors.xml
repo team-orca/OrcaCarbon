@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#33691e</color>
+    5     <color name="colorPrimary">#7cb342</color>
+    6     <color name="colorPrimaryDark">#558b2f</color>
+    7     //
+    8
+    9     <color name="green1">#f1f8e9</color>
+    10     <color name="green2">#dcedc8</color>
+    11     <color name="green3">#c5e1a5</color>
+    12     <color name="green4">#aed581</color>
+    13     <color name="green5">#9ccc65</color>
+    14     <color name="green6">#8bc34a</color>
+    15     <color name="green7">#7cb342</color>
+    16     <color name="green8">#689f38</color>
+    17     <color name="green9">#558b2f</color>
+    18     <color name="green10">#33691e</color>
+
+</resources>
